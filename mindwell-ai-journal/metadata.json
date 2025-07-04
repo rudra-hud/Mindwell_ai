@@ -1,0 +1,7 @@
+{
+  "name": "MindWell AI Journal",
+  "description": "An empathetic AI-powered journal to help you talk about your emotions, reflect on your thoughts, and track your mental patterns over time in a private and secure space.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
